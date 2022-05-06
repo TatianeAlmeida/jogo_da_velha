@@ -1,2 +1,2 @@
-# jogo_da_velha
-Jogo Da Velha
+# JOGO DA VELHA
+### Jogo criado com base em HTML, CSS e Javascript.
